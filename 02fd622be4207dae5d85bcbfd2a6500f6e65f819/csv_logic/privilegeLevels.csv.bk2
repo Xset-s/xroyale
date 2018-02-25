@@ -1,6 +1,0 @@
-Name,Arena,ChestsRefill,OnlineLimit,GoldAfterBattle,ChestAfterBattle,FriendlyBattle,TrainingBattle,CanFull,CanUseColors
-String,String,Int,Int,Int,Boolean,Boolean,Boolean,Boolean,Boolean
-Normal,Arena9,1200,300,5000,True,True,True,False,False
-Premium,Arena_L,600,500,10000,True,True,True,True,True
-Deluxe,Arena_L9,300,1000,15000,True,True,True,True,True
-Admin,Arena_L9,0,1000,15000,True,True,True,True,False
